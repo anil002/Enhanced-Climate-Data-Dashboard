@@ -11,4 +11,3 @@ fiona
 zipfile36
 requests
 jsonschema
-warnings
