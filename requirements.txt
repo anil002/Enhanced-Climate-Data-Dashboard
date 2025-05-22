@@ -1,0 +1,14 @@
+earthengine-api
+streamlit
+folium
+streamlit-folium
+pandas
+numpy
+scipy
+plotly
+geopandas
+fiona
+zipfile36
+requests
+jsonschema
+warnings
